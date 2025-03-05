@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kudu-star
-- 👀 I’m interested in learning anything tech related
+- 👀 I’m interested in learning anything tech-related
+- 🧠 I'm researching and saving up for a gaming PC - AMD rocks!
 - 🌱 I’m currently learning Python scripting, Cloud Guides and IAC and.... and....
-- 📫 Look me up on linkedIn @yveslaingui
+- 📫 Look me up on LinkedIn @yveslaingui
 
 
 
