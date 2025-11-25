@@ -22,7 +22,8 @@
 *Also semi-fluent in: Azure Identity, YAML debugging, JSON formatting, and deciphering Azure and AWS pricing 💸*
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kudu-star&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yves-steve&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yves-steve&show_icons=true&theme=radical)
 
 *Warning: My commit history may contain evidence of "it works on my machine" syndrome*
 
