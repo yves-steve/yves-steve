@@ -21,12 +21,6 @@
 
 *Also semi-fluent in: Azure Identity, YAML debugging, JSON formatting, and deciphering Azure and AWS pricing 💸*
 
-## 📊 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=kudu-star&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kudu-star&show_icons=true&theme=radical)
-
-*Warning: My commit history may contain evidence of "it works on my machine" syndrome*
-
 ## 🔭 Current Projects
 
 ### [🐙 fictional-octo-system](https://github.com/yves-steve/fictional-octo-system)
