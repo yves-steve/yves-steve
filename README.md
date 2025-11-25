@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @kudu-star
-- 👀 I’m interested in learning anything tech-related
-- 🧠 I'm researching and saving up for a gaming PC - AMD rocks!
-- 🌱 I’m currently learning Python scripting, Cloud Guides and IAC and.... and....
-- 📫 Look me up on LinkedIn @yveslaingui
+# 👋 Hi, I'm Yves Laingui (@kudu-star)
 
+## 🚀 About Me
+- 🥩 Kudu is my favourite form of solid state meat aka biltong (this might give you a clue as to where I originate from)
+- 💼 I'm a recovering Exchange Engineer, thanks Microsoft 😅 (They said "the cloud is the future" and here I am!)
+- 👀 I'm interested in learning anything tech-related (if it has buttons, I'll click them)
+- 🧠 I bought my gaming PC - and it rocks! (Intel who? 😏)
+- 🌱 I'm currently learning Python scripting, Cloud Infrastructure (Azure, AWS, GCP) and Infrastructure as Code (Terraform)
+- 💼 Working with multi-cloud deployments and security best practices
+- ☕ Powered by coffee and occasional Stack Overflow and Github panic searches
+- 🐛 I don't always test my code, but when I do, I do it in production (just kidding... mostly) 
 
+## 🛠️ Technologies & Tools
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+*Also semi-fluent in: Azure Identity, YAML debugging, JSON formatting, and deciphering Azure and AWS pricing 💸*
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kudu-star&show_icons=true&theme=radical)
+
+*Warning: My commit history may contain evidence of "it works on my machine" syndrome*
+
+## 🔭 Current Projects
+- Multi-cloud infrastructure automation with Terraform (because managing one cloud wasn't painful enough)
+- Security compliance and policy management (teaching computers to follow rules so humans don't have to)
+- Cost optimization and FinOps practices (aka "How to explain that cloud bill to management")
+
+## 💡 Fun Facts
+- My code is like my sense of humour: occasionally works, often needs debugging
+- I speak three languages: English, PowerShell, and Profanity (mostly when Terraform applies fail)
+- My tech relationship status: It's complicated just like Kubernetes
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yveslaingui)
+
+*Professional inquiries welcome. Cycling GIFs also accepted.* 🐱
+
+## 📝 Latest Blog Posts
+Its quiet here... (Translation: I keep saying I'll blog, but Netflix keeps suggesting "just one more episode")
 
 <!---
 kudu-star/kudu-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
+![Biltong Enthusiast](https://img.shields.io/badge/-Biltong%20Enthusiast-8B4513?style=flat-square&logo=🥩&logoColor=white)
+![Ex-Exchange Engineer](https://img.shields.io/badge/-Ex%20Exchange%20Engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white)
