@@ -22,6 +22,7 @@
 *Also semi-fluent in: Azure Identity, YAML debugging, JSON formatting, and deciphering Azure and AWS pricing 💸*
 
 ## 📊 GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=kudu-star&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kudu-star&show_icons=true&theme=radical)
 
 *Warning: My commit history may contain evidence of "it works on my machine" syndrome*
@@ -41,7 +42,7 @@ A work-in-progress multi-cloud Infrastructure as Code repository featuring:
 ## 💡 Fun Facts
 - My code is like my sense of humour: occasionally works, often needs debugging
 - I speak three languages: English, PowerShell, and Profanity (mostly when Terraform applies fail)
-- My tech relationship status: It's complicated just like Kubernetes
+- My tech relationship status: It's complicated just like Kubernetes.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-laingui-648791194)
