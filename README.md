@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yves Laingui
 
 ## 🚀 About Me
+- ☎️ My GitHub username "Yves-Steve" is a play on words that originates from people mishearing my name on the phone, so I usually play along
 - 🥩 Kudu is my favourite form of solid-state meat aka biltong (this might give you a clue as to where I originate from)
 - 💼 I'm a recovering Exchange Engineer, thanks to Microsoft 😅 (They said "the cloud is the future" and here I am!)
 - 👀 I'm interested in learning anything tech-related (if it has buttons, I'll click them)
@@ -9,7 +10,6 @@
 - 💼 Working with multi-cloud deployments and security best practices
 - ☕ Powered by coffee and occasional Stack Overflow and GitHub panic searches
 - 🐛 I don't always test my code, but when I do, I do it in production (just kidding... mostly)
-- My GitHub username "Yves-Steve" is a play on words that originates from people mishearing my name on the phone, so I usually play along
 
 ## 🛠️ Technologies & Tools
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
