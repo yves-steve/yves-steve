@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Yves Laingui (@kudu-star)
+# 👋 Hi, I'm Yves Laingui
 
 ## 🚀 About Me
-- 🥩 Kudu is my favourite form of solid state meat aka biltong (this might give you a clue as to where I originate from)
-- 💼 I'm a recovering Exchange Engineer, thanks Microsoft 😅 (They said "the cloud is the future" and here I am!)
+- 🥩 Kudu is my favourite form of solid-state meat aka biltong (this might give you a clue as to where I originate from)
+- 💼 I'm a recovering Exchange Engineer, thanks to Microsoft 😅 (They said "the cloud is the future" and here I am!)
 - 👀 I'm interested in learning anything tech-related (if it has buttons, I'll click them)
 - 🧠 I bought my gaming PC - and it rocks! (Intel who? 😏)
 - 🌱 I'm currently learning Python scripting, Cloud Infrastructure (Azure, AWS, GCP) and Infrastructure as Code (Terraform)
 - 💼 Working with multi-cloud deployments and security best practices
 - ☕ Powered by coffee and occasional Stack Overflow and Github panic searches
-- 🐛 I don't always test my code, but when I do, I do it in production (just kidding... mostly) 
+- 🐛 I don't always test my code, but when I do, I do it in production (just kidding... mostly)
+- The play on words for Yves-Steve originates from people mishearing my name on the phone, so I usually play along
 
 ## 🛠️ Technologies & Tools
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -27,7 +28,7 @@
 A work-in-progress multi-cloud Infrastructure as Code repository featuring:
 - 🌩️ Multi-cloud infrastructure automation (Azure, AWS, GCP) with Terraform
 - 🔒 Security compliance and policy management across clouds
-- 💰 Cost optimization and FinOps practices
+- 💰 Cost optimisation and FinOps practices
 - 🔐 GitHub OIDC authentication for secure CI/CD pipelines
 - 📊 Automated security scanning with tfsec
 
