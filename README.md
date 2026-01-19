@@ -19,6 +19,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 *Also semi-fluent in: Azure Identity, YAML debugging, JSON formatting, and deciphering Azure and AWS pricing 💸*
 
@@ -33,6 +35,14 @@ A work-in-progress multi-cloud Infrastructure as Code repository featuring:
 - 📊 Automated security scanning with tfsec
 
 *Teaching computers to follow rules so humans don't have to (and explaining cloud bills to management)*
+
+### [🐦 birdhouse-vision](https://github.com/yves-steve/birdhouse-vision)
+AI-powered bird monitoring with Raspberry Pi and AWS Rekognition:
+- 🎥 Weatherproof PoE camera system with dual Raspberry Pi setup
+- 🤖 AWS Rekognition integration for automated bird species identification
+- 💰 €18/year running costs with detailed hardware documentation
+
+*Watching birds watch my birdhouse (with AI doing the actual watching)* 🐦
 
 ## 💡 Fun Facts
 - My code is like my sense of humour: occasionally works, often needs debugging
