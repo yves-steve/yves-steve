@@ -26,7 +26,7 @@
 
 ## 🔭 Current Projects
 
-### [🐙 fictional-octo-system](https://github.com/yves-steve/fictional-octo-system)
+### [🐙 fictional-octo-system](https://github.com/KuduWorks/fictional-octo-system)
 A work-in-progress multi-cloud Infrastructure as Code repository featuring:
 - 🌩️ Multi-cloud infrastructure automation (Azure, AWS, GCP) with Terraform
 - 🔒 Security compliance and policy management across clouds
