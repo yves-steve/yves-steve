@@ -36,6 +36,15 @@ A work-in-progress multi-cloud Infrastructure as Code repository featuring:
 
 *Teaching computers to follow rules so humans don't have to (and explaining cloud bills to management)*
 
+### [☁️ cloudflare-edge-security-showcase](https://github.com/yves-steve/cloudflare-edge-security-showcase)
+A security-focused static-site portfolio lab comparing two deployment paths:
+- 🌐 Cost-aware hosting with Cloudflare Workers Static Assets
+- 🔒 Cloudflare DNS, TLS, CDN, DDoS protection, and WAF controls
+- 🚇 A private GCP origin reached through an outbound-only Cloudflare Tunnel
+- 🧱 Terraform validation, SHA-pinned GitHub Actions, and secret-safe defaults
+
+*Keeping the website public and the origin decidedly less sociable.*
+
 ### [🐦 birdhouse-vision](https://github.com/yves-steve/birdhouse-vision)
 AI-powered bird monitoring with Raspberry Pi and AWS Rekognition:
 - 🎥 Weatherproof PoE camera system with dual Raspberry Pi setup
